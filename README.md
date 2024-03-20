@@ -1,6 +1,10 @@
 # Job Search Platform Finder
 
 Welcome to the Job Search Platform Finder! This application helps you find various job search platforms and resources to aid in your job hunt. Below are the instructions on how to set up and run the application.
+## main floder Setup and Run
+   ```bash
+   npm install
+   ```
 
 ## Frontend Setup and Run
 
